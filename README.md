@@ -16,15 +16,15 @@ I’m passionate about building apps, games, and tools. I’m focused on improvi
 ![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white) ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white) ![](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white) 
 
 # 📊 Stats:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Lao-82&show_icons=true&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Lao-82&show_icons=true&theme=omni)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Lao-82&theme=dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Lao-82&theme=omni&hide_border=false)<br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lao-82&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lao-82&theme=omni&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Lao-82&theme=dark)
+![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Lao-82&theme=omni)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=omni)
 
 ---
