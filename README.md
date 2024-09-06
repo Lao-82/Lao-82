@@ -18,7 +18,7 @@ I’m passionate about building apps, games, and tools. I’m focused on improvi
 # 📊 Stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Lao-82&show_icons=true&theme=omni)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Lao-82&theme=omni&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Lao-82&theme=omni&hide_border=false)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lao-82&theme=omni&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
